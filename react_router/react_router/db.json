@@ -1,0 +1,53 @@
+{
+    "data":
+    [
+      {
+          "name" : "SmartPhone",
+          "image":"https://static.toiimg.com/thumb/resizemode-4,msid-54128624,imgsize-200,width-1200/54128624.jpg",
+          "price": 30,
+          "id" : 0
+      },
+      {
+          "name" : "Watch",
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXSAjxrbZjItVPUbb9WW50KZGGxpmYnsCYbg&usqp=CAU",
+          "price" : 20,
+          "id" : 1
+      },
+      {
+          "name" : "Shirt",
+          "image":"https://assets.ajio.com/medias/sys_master/root/20210403/TCIf/6068daf67cdb8c1f147d25c0/-1117Wx1400H-461866963-blue-MODEL.jpg",
+          "price" : 50,
+          "id" : 2
+      },
+      {
+          "name" : "Pants",
+          "image":"https://m.media-amazon.com/images/I/61OcO24+kxL._UL1440_.jpg",
+          "price" : 100,
+          "id" : 3
+      },
+      {
+         "name" : "Top",
+         "image":"https://5.imimg.com/data5/QZ/VJ/FA/SELLER-27399423/crop-top-250x250.jpeg",
+         "price" : 300,
+         "id" : 4
+     },
+     {
+      "name" : "Saree",
+      "image":"https://assets.ajio.com/medias/sys_master/root/20211225/ABxl/61c62ee1f997ddf8f1606965/hritika-black-%26-grey-printed-micro-print-saree-with-contrast-border.jpg",
+      "price" : 520,
+      "id" : 5
+  },
+  {
+   "name" : "Earrings",
+   "image":"https://medias.utsavfashion.com/media/catalog/product/cache/1/small_image/295x/040ec09b1e35df139433887a97daa66f/b/e/beaded-jhumka-style-oxidized-earrings-v1-jkc4746.jpg",
+   "price" : 80,
+   "id" : 6
+},
+{
+   "name" : "Crop Top",
+   "image":"https://zoodmall.com/cdn-cgi/image/w=500,fit=contain,f=auto/https://ae01.alicdn.com/kf/H94a8d9175c084ab298351275b9746977U/ZAFUL-Contrast-Striped-Rainbow-T-shirt-Women-Half-Button-Crop-Sweatshirt-Short-Polo-Shirt-Long-Sleeve.jpg",
+   "price" : 300,
+   "id" : 7
+}
+]
+}
