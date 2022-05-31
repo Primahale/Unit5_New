@@ -1,0 +1,164 @@
+/* .poster{
+    border: 3px solid;
+} */
+.poster img{
+    width:100%;
+    height: 850px;
+}
+.div2{
+    /* border: 2px solid red; */
+    display: flex;
+}
+.poster1{
+    width: 50%;
+    margin: 30px;
+    /* border: 4px solid blue; */
+    height: 600px;
+}
+.poster1 img{
+    width: 100%;
+    height: 590px;
+}
+/* .div3{
+    border: 1px solid;
+} */
+.Hclass{
+    font-size: small;
+    font-weight: bold;
+    margin: 20px;
+}
+.Pclass{
+    font-size:x-large;
+    font-weight: bolder;
+    margin-bottom: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.div4{
+    /* border: 2px solid black; */
+    display: flex;
+}
+.div4img{
+    /* border: 1px solid blueviolet; */
+    height: 550px;
+    margin-left: 270px;
+    margin-top: 50px;
+}
+.div4img img{
+    height: 100%;
+}
+.div4img2{
+    /* border: 2px solid yellow; */
+    height: 550px;
+    width: 500px;
+    margin-top: 50px;
+    /* margin-left: 50px; */
+}
+.div4img2 img{
+    width: 280px;
+    margin-left: -90px;
+    margin-top: 50px;
+}
+.div4img2 h5{
+    margin-top: 10px;
+    color: darkslateblue;
+    font-weight: bold;
+}
+.div4img2 button{
+    font-size: smaller;
+    padding: 15px;
+    width: 250px;
+    margin: 10px;
+    background-color: rgb(26, 136, 231);
+    color: white;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    border: 1px solid rgb(26, 136, 231);
+}
+.div4img2 button:hover{
+    cursor: pointer;
+    background-color: rgb(253, 251, 251);
+    color: rgb(26, 136, 231);
+}
+.div5{
+    margin: 50px;
+}
+.div6{
+    display: flex;
+    /* border: 2px solid; */
+    padding: 20px;
+}
+.div6box{
+    /* border: 2px solid red; */
+    margin: 50px;
+    
+}
+.div6box img{
+    width: 390px;
+    height: 300px;
+    /* border: 5px solid; */
+}
+.headline{
+    font-size: small;
+    font-weight: bold;
+    text-align: left;
+    margin-left: 20px;
+    color: rgb(16, 64, 116);
+}
+.headline2{
+    font-size: x-large;
+    font-weight: bold;
+    text-align: left;
+    margin: 20px;
+    color: rgba(0, 0, 0, 0.844);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 1px;
+}
+.text{
+    text-align: left;
+    margin: 20px;
+    color: rgba(3, 1, 1, 0.699);
+    letter-spacing: 1.5px;
+    font-size: small;
+    font-weight: 540;
+}
+.div6box a{
+    margin-left: -260px;
+    color: black;
+}
+.btn{
+    font-size: smaller;
+    padding: 15px;
+    width: 250px;
+    margin: 10px;
+    background-color: rgb(26, 136, 231);
+    color: white;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    border: 1px solid rgb(26, 136, 231);
+}
+
+.btn :hover{
+    cursor: pointer;
+    background-color: rgb(253, 251, 251);
+    color: rgb(26, 136, 231);
+}
+.div7{
+    display: flex;
+    margin-bottom: 50px;
+    /* border: 2px solid; */
+}
+/* .lastdiv{
+    border: 2px solid;
+} */
+.lastdiv img{
+    /* border: 1px solid red; */
+    width: 50%;
+    height: 300px;
+}
+
+.lastdiv img:hover{
+    cursor: pointer;
+    /* background-color: gray; */
+    
+}

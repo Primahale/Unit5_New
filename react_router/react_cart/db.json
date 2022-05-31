@@ -1,0 +1,149 @@
+{
+    "shop": [
+                {
+                    "image":"https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---3-copy_0007_mbp-spacegray-gallery2-202011_GEO_AU_400x.png?v=1618286085",
+                    "title":"13 inch MacBook Pro (M1)",
+                    "price":"From $1,990",
+                    "id":"1"
+                },
+                {
+                    "image":"https://cdn.shopify.com/s/files/1/0183/5769/products/Macbook-Air_0002_438554-Product-0-I-637205827845419382_800x800_57673ff6-0709-45b5-a8bc-7663764cb984_400x.png?v=1618285151",
+                    "title":"13-inch M1 MacBook Air",
+                    "price":"From $1,590",
+                    "id":"2"
+
+                },
+                {
+                    "image":"https://cdn.shopify.com/s/files/1/0183/5769/products/macbook-16_0001_mbp16touch-silver-gallery1-201911_jpeg_400x.png?v=1618285124",
+                    "title":"16-inch MacBook Pro",
+                    "price":"From $3,700",
+                    "id":"3"
+                },
+                {
+                    "image":"https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---3_0002.3_1000x.png?v=1618285886",
+                    "title":"20W USB-C Power Adapter",
+                    "price":"$26.95",
+                    "id":"4"
+                },
+                {
+                    "image":"https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---3_0007_50074027_754420_400x.png?v=1618286118",
+                    "title":"AirPods Max",
+                    "price":"$840",
+                    "id":"5"
+                },
+                {
+                    "image":"https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---7_0000_CRCA57-V3_400x.png?v=1626240392",
+                    "title":"ALOGIC Rapid 2 Car Charger",
+                    "price":"$49.95",
+                    "id":"6"
+                },
+                {
+                    "image":"https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-Web-images-2021-Airpods_400x.png?v=1618284435",
+                    "title":"Apple Airpods (Gen 2)",
+                    "price":"From $210",
+                    "id":"7"
+                },
+                {
+                    "image":"https://cdn.shopify.com/s/files/1/0183/5769/products/Airpods-3rd-Gen_0000_MME73_AV2_400x.png?v=1634860722",
+                    "title":"Apple Airpods (Gen 2)",
+                    "price":"$269",
+                    "id":"8"
+                },
+                {
+                    "image":"https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---3-copy_0004_MWP22_1800x1800_9eeb42ff-b3f6-45e3-8da8-ed84d8ace86c_400x.png?v=1618285046",
+                    "title":"Apple AirPods Pro",
+                    "price":"$325",
+                    "id":"9"
+                },
+                {
+                    "image":"https://cdn.shopify.com/s/files/1/0183/5769/products/airtag-single_400x.png?v=1622787922",
+                    "title":"Apple AirTag",
+                    "price":"$35",
+                    "id":"10"
+                },
+                {
+                    "image":"https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---3-copy_0002_MMTN2_400x.png?v=1618285525",
+                    "title":"Apple EarPods",
+                    "price":"$25",
+                    "id":"11"
+                },
+                {
+                    "image":"https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---3_0006_apple_new-imac-spring21_pf-silver_04202021_400x.png?v=1618977028",
+                    "title":"Apple iMac 24 (7 core GPU / 256GB)",
+                    "price":"$1899",
+                    "id":"12"
+                },
+                {
+                    "image":"https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---3_0006_apple_new-imac-spring21_pf-silver_04202021_2e3dbfeb-7aed-4b21-be7f-fb05045ddeb9_1000x.png?v=1618977565",
+                    "title":"Apple iMac 24 (7 core GPU / 256GB)",
+                    "price":"$2199",
+                    "id":"13"
+                },
+                {
+                    "image":"https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---3_0006_apple_new-imac-spring21_pf-silver_04202021_2e3dbfeb-7aed-4b21-be7f-fb05045ddeb9_1000x.png?v=1618977565",
+                    "title":"Apple iMac 24 (8 core GPU / 512GB)",
+                    "price":"$2499",
+                    "id":"14"
+                },
+                {
+                    "image":"https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---3_0006_apple_new-imac-spring21_pf-silver_04202021_2e3dbfeb-7aed-4b21-be7f-fb05045ddeb9_1000x.png?v=1618977565",
+                    "title":"Apple iMac 24 (7 core GPU / 256GB)",
+                    "price":"$1899",
+                    "id":"15"
+                },
+                {
+                    "image":"https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---3_0006_apple_new-imac-spring21_pf-silver_04202021_2e3dbfeb-7aed-4b21-be7f-fb05045ddeb9_1000x.png?v=1618977565",
+                    "title":"Apple iMac 24 (8 core GPU / 256GB)",
+                    "price":"$2199",
+                    "id":"16"
+                },
+                {
+                    "image":"https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---10_0000s_0003_535968-Product-0-I-637673112152312728_800x800_638bf0e9-d195-4ff7-a818-7891ecfd9535_400x.png?v=1631683735",
+                    "title":"Apple iPad 10.2 (9th Generation)",
+                    "price":"$485",
+                    "id":"17"
+                },
+                {
+                    "image":"https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---1_0003_487222-Product-0-I-637360358271400974_800x800_0ba7618e-2538-426f-b63d-d18a3cdcffc6_400x.png?v=1618285737",
+                    "title":"Apple iPad Air (4th Gen)",
+                    "price":"From $879",
+                    "id":"18"
+                },
+                {
+                    "image":"https://cdn.shopify.com/s/files/1/0183/5769/products/appleipadair5thgenblue_400x.png?v=1648611535",
+                    "title":"Apple iPad Air (5th Gen)",
+                    "price":"From $919",
+                    "id":"19"
+                },
+                {
+                    "image":"https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---10_0000s_0001_ipad-mini-select-wifi-space-gray-202109_400x.png?v=1631687517",
+                    "title":"Apple iPad Mini (6th Gen)",
+                    "price":"From $749",
+                    "id":"20"
+                },
+                {
+                    "image":"https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-web-images-2021-_0001s_0001s_0000_13-Midnight_1000x.png?v=1631855868",
+                    "title":"Apple iPhone 13",
+                    "price":"From $1349",
+                    "id":"21"
+                },
+                {
+                    "image":"https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-web-images-2021-_0000s_0001s_0000_13Mini-Midnight_1000x.png?v=1631856103",
+                    "title":"Apple iPhone 13Mini",
+                    "price":"From $1199",
+                    "id":"22"
+                },
+                {
+                    "image":"https://cdn.shopify.com/s/files/1/0183/5769/products/iPod-Touch-Web_400x.png?v=1618285072",
+                    "title":"Apple iPod Touch 7th Gen",
+                    "price":"From $299",
+                    "id":"23"
+                },
+                {
+                    "image":"https://cdn.shopify.com/s/files/1/0183/5769/products/Proper-business-web-images-2020---3_0008_Screenshot-2021-02-08-163107_400x.png?v=1618285858",
+                    "title":"Apple Watch SE GPS (40mm)",
+                    "price":"$419",
+                    "id":"24"
+                }
+    ]
+}
